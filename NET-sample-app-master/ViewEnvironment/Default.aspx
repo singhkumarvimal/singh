@@ -24,7 +24,7 @@
 
     <div class="row">
         <div class="large-12 columns">
-            <h3>Welcome BMW GuruGram</h3>
+            <h3>Welcome WalMart BLR</h3>
             <hr/>
         </div>
 
