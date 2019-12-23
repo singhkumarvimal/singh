@@ -24,7 +24,7 @@
 
     <div class="row">
         <div class="large-12 columns">
-            <h3>Welcome Shell infosys Hyderabad</h3>
+            <h3>Welcome infosys Hyderabad</h3>
             <hr/>
         </div>
 
