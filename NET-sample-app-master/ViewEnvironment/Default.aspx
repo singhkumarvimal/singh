@@ -24,7 +24,7 @@
 
     <div class="row">
         <div class="large-12 columns">
-            <h3>Welcome ACC at KOENIG </h3>
+            <h3>Welcome ACC at KOENIG with CI CD</h3>
             <hr/>
         </div>
 
