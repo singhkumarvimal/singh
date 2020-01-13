@@ -24,7 +24,7 @@
 
     <div class="row">
         <div class="large-12 columns">
-            <h3>Welcome ACC at KOENIG with CI CD</h3>
+            <h3>Welcome</h3>
             <hr/>
         </div>
 
@@ -32,7 +32,7 @@
             <div class="large-12 columns">
                 <div class="panel">
                     <h4>Environment Information:</h4><br/>
-                    <p>The current server time is <em>
+                    <p>dThe current server time is <em>
                         <asp:Label ID="lblTime" runat="server"></asp:Label></em></p>
                     <p>The current .NET version is <em>
                         <asp:Label ID="lblDotNetVersion" runat="server"></asp:Label></em></p>
