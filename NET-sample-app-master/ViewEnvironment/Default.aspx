@@ -24,7 +24,7 @@
 
     <div class="row">
         <div class="large-12 columns">
-            <h3>Welcome to AZ-400 ILT BLR</h3>
+            <h3>Welcome to Linkedin BLR</h3>
             <hr/>
         </div>
 
