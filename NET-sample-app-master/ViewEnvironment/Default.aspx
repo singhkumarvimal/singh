@@ -24,7 +24,7 @@
 
     <div class="row">
         <div class="large-12 columns">
-            <h3>Welcome to AZ-400 for TCS</h3>
+            <h3>HI</h3>
             <hr/>
         </div>
 
