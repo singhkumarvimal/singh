@@ -24,7 +24,7 @@
 
     <div class="row">
         <div class="large-12 columns">
-            <h3>AZ-400 Test App</h3>
+            <h3>AZ-400 Test App on ONPREM</h3>
             <hr/>
         </div>
 
